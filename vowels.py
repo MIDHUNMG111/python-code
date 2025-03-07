@@ -1,4 +1,3 @@
-string = input()
 vowels = ['a','e','i','o','u']
 usr = input().lower()
 count = 0
